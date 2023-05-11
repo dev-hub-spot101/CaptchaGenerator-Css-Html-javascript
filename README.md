@@ -2,5 +2,5 @@
 
 Result
 
-![alt text](https://github.com/devhubspots/CaptchaGenerator-Css-Html-javascript/blob/master/Screenshot 2023-05-11 at 4.01.42 PM.png
+![alt text](https://github.com/devhubspots/CaptchaGenerator-Css-Html-javascript/blob/master/result.png
 ?raw=true)
